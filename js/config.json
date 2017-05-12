@@ -1,0 +1,19 @@
+var assets = {
+    "water": "assets/water.png",
+    "snake": "assets/snake-red.png",
+    "food":  "assets/diamond.png"
+};
+
+var snakeSpeed = {
+    "velocitySpeed": 150,
+    "plusSpeed": 10
+};
+
+var scorePoints = {
+    "scorePoints": 1,
+    "scoreText": "score: "
+}
+
+var gameOver = {
+    "gameOver": "GAME OVER"
+}
